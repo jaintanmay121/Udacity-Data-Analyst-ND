@@ -1,7 +1,4 @@
 # Wrangle and Analyze Data
-Udacity Data Analyst December 2017 - May 2018. 
-
-Project 7: Wrangle and Analyze Data - WeRateDogs twitter account
 
 # Project Overview
 ## Introduction
