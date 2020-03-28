@@ -43,5 +43,5 @@ Clean each of the issues you documented while assessing.  The result should be a
 
 ## Report
 Two reports:
-- Wwrangling efforts are briefly described in wrangle_report.pdf.
+- Wrangling efforts are briefly described in wrangle_report.pdf.
 - The three (3) or more insights the student found are communicated in act_report.pdf including visualization.
