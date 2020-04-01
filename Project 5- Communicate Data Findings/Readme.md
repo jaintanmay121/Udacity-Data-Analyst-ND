@@ -13,8 +13,8 @@
 ### Key Insights
 > In the presentation, we can see the following:
 > <ul>
-    <li>Most Common Start Point of a ride is `Market St at 10th St`</li>
-    <li>For both types of users, the peak hours for bike rides are 800 hours and 1700 hours.</li>
-    <li>The hourly usage by weekday for the two types of users.</li>
-    <li>Trip duration for every day for a week shows that Casual users take longer rides than Subscribed users.</li>
+>    <li>Most Common Start Point of a ride is `Market St >at 10th St`</li>
+>    <li>For both types of users, the peak hours for bike >rides are 800 hours and 1700 hours.</li>
+>    <li>The hourly usage by weekday for the two types of >users.</li>
+>    <li>Trip duration for every day for a week shows that >Casual users take longer rides than Subscribed users.</li>
 </ul>
