@@ -2,7 +2,7 @@
 ## 2020 Ford GoBike System Data
 ### By Tanmay Jain
 
-### Dataset
+### [Dataset](https://s3.amazonaws.com/baywheels-data/202002-baywheels-tripdata.csv.zip)
 > The dataset here includes data for all the rides made in February 2020. It contains data for more than 400k rides with 14 features each, such as start time of ride, duration of ride, user type, rental access method.
 
 ### Summary of Data Findings
