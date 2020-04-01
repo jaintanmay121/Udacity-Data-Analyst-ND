@@ -2,8 +2,8 @@
 ## 2020 Ford GoBike System Data
 ### By Tanmay Jain
 
-### [Dataset](https://s3.amazonaws.com/baywheels-data/202002-baywheels-tripdata.csv.zip)
-> The dataset here includes data for all the rides made in February 2020. It contains data for more than 400k rides with 14 features each, such as start time of ride, duration of ride, user type, rental access method.
+### Dataset
+> The [dataset](https://s3.amazonaws.com/baywheels-data/202002-baywheels-tripdata.csv.zip) here includes data for all the rides made in February 2020. It contains data for more than 400k rides with 14 features each, such as start time of ride, duration of ride, user type, rental access method.
 
 ### Summary of Data Findings
 > From the data exploration, it was noticed that people take bike rides mostly for their work commute. This can be said because the maximum number of rides were booked at 8:00am and 5:00pm, i.e. the arrival and departure office timings.
